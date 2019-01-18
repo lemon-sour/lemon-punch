@@ -1,0 +1,14 @@
+{
+  "name": "lemon-punch",
+  "version": "1.0.0",
+  "scripts": {
+    "a": "yarn add lemon-sour",
+    "r": "yarn remove lemon-sour",
+    "ar": "yarn a && yarn r"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:lemon-sour/lemon-punch.git",
+  "author": "hisasann <hisasann25@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
