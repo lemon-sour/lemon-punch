@@ -2,8 +2,8 @@
   "name": "lemon-punch",
   "version": "1.0.0",
   "scripts": {
-    "a": "yarn add lemon-sour",
-    "r": "yarn remove lemon-sour",
+    "a": "yarn add lemon-sour @lemon-sour/cli @lemon-sour/json-storage node-log-rotate",
+    "r": "yarn remove lemon-sour @lemon-sour/cli @lemon-sour/json-storage node-log-rotate",
     "ar": "yarn a && yarn r"
   },
   "main": "index.js",
